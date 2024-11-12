@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="simple_structured_markup",
-    version="0.1.1",
+    version="0.1.2",
     description="A lightweight parser for Simple Structured Markup (SSM) files.",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
